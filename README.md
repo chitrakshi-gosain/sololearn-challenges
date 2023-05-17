@@ -17,19 +17,19 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 
 | Description                                        | Python Solution                                            | Date Attempted |
 | -------------------------------------------------- | ---------------------------------------------------------- | --- |
-| [Popsicles]("Easy/Popsicles/README.md")            | [Popsicles.py](Easy/Popsicles/popsicles.py)                | May 17, 2023 |
-| [Halloween Candy]("Easy/HalloweenCandy/README.md") | [HalloweenCandy.py](Easy/HalloweenCandy/halloween_candy.py) | May 17, 2023 |
+| [Popsicles](./Easy/Popsicles/README.md)            | [Popsicles.py](./Easy/Popsicles/popsicles.py)                | May 17, 2023 |
+| [Halloween Candy](./Easy/HalloweenCandy/README.md) | [HalloweenCandy.py](./Easy/HalloweenCandy/halloween_candy.py) | May 17, 2023 |
 
 ## Medium
 
 | Description                                 | Python Solution                                  | Date Attempted |
 | ------------------------------------------- | ------------------------------------------------ | -- |
-| [The Spy Life](Medium/TheSpyLife/README.md) | [TheSpyLife.py](Medium/TheSpyLife/the_spy_life.py) | May 17, 2023 |
+| [The Spy Life](./Medium/TheSpyLife/README.md) | [TheSpyLife.py](./Medium/TheSpyLife/the_spy_life.py) | May 17, 2023 |
 
 ## Hard
 
 | Description                                              | Python Solution                                                     | Date Attempted |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -- |
-| [New Driver's License](Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](Hard/NewDriversLicense/new_driver_license.py) | May 17, 2023 |
+| [New Driver's License](./Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](./Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023 |
 
 All solutions belong to Chitrakshi Gosain. The challenge was started on May 17, 2023.
