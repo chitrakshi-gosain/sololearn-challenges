@@ -11,25 +11,29 @@ Each problem will have a different directory that will comprise a README.md expl
 
 To begin with, first round of solving these problems will be done in Python, then in C, then C++ and then more programming languages if possible.
 
-The codes will be written on mobile device in Sololearn sandbox, sucessfully run and will pass all test cases provided by Sololearn. The link to my profile at Sololearn: https://www.sololearn.com/profile/29143180
+The codes will be written on mobile device in Sololearn sandbox, sucessfully run and will pass all test cases provided by Sololearn. The link to my profile at Sololearn: <https://www.sololearn.com/profile/29143180>
 
 ## Easy
 
-| Description                                        | Python Solution                                            | Date Attempted |
-| -------------------------------------------------- | ---------------------------------------------------------- | --- |
-| [Popsicles](./Easy/Popsicles/README.md)            | [Popsicles.py](./Easy/Popsicles/popsicles.py)                | May 17, 2023 |
-| [Halloween Candy](./Easy/HalloweenCandy/README.md) | [HalloweenCandy.py](./Easy/HalloweenCandy/halloween_candy.py) | May 17, 2023 |
+| Description                                        | Python Solution                                               | Date Attempted |
+| -------------------------------------------------- | ------------------------------------------------------------- | -------------- |
+| [Popsicles](./Easy/Popsicles/README.md)            | [Popsicles.py](./Easy/Popsicles/popsicles.py)                 | May 17, 2023   |
+| [Halloween Candy](./Easy/HalloweenCandy/README.md) | [HalloweenCandy.py](./Easy/HalloweenCandy/halloween_candy.py) | May 17, 2023   |
+| [Fruit Bowl](./Easy/HalloweenCandy/README.md) | [FruitBowl.py](./Easy/HalloweenCandy/halloween_candy.py) | May 18, 2023   |
+| [Ballpark Orders](./Easy/HalloweenCandy/README.md) | [BallparkOrders.py](./Easy/HalloweenCandy/halloween_candy.py) | May 18, 2023   |
 
 ## Medium
 
-| Description                                 | Python Solution                                  | Date Attempted |
-| ------------------------------------------- | ------------------------------------------------ | -- |
-| [The Spy Life](./Medium/TheSpyLife/README.md) | [TheSpyLife.py](./Medium/TheSpyLife/the_spy_life.py) | May 17, 2023 |
+| Description                                   | Python Solution                                      | Date Attempted |
+| --------------------------------------------- | ---------------------------------------------------- | -------------- |
+| [The Spy Life](./Medium/TheSpyLife/README.md) | [TheSpyLife.py](./Medium/TheSpyLife/the_spy_life.py) | May 17, 2023   |
+| [Pig Latin](./Medium/TheSpyLife/README.md) | [PigLatin.py](./Medium/TheSpyLife/the_spy_life.py) | May 18, 2023   |
 
 ## Hard
 
-| Description                                              | Python Solution                                                     | Date Attempted |
-| -------------------------------------------------------- | ------------------------------------------------------------------- | -- |
-| [New Driver's License](./Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](./Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023 |
+| Description                                                | Python Solution                                                         | Date Attempted |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------- | -------------- |
+| [New Driver's License](./Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](./Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023   |
+| [It's a Sign](./Hard/NewDriversLicense/README.md) | [ItsASign.py](./Hard/NewDriversLicense/new_drivers_license.py) | May 18, 2023   |
 
 All solutions belong to Chitrakshi Gosain. The challenge was started on May 17, 2023.
