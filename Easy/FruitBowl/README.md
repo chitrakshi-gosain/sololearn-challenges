@@ -16,11 +16,15 @@ An integer representing the total number of whole apple pies that you can make.
 
 ## Sample Input
 
+```=
 26
+```
 
 ## Sample Output
 
+```=
 4
+```
 
 ## Explanation
 

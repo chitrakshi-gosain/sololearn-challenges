@@ -16,11 +16,15 @@ You will output a number of the total cost of the food and drinks.
 
 ## Sample Input
 
+```=
 'Pizza Cheeseburger Water Popcorn'
+```
 
 ## Sample Output
 
+```=
 26.75
+```
 
 ## Explanation
 
