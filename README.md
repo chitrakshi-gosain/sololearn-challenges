@@ -19,8 +19,8 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | -------------------------------------------------- | ------------------------------------------------------------- | -------------- |
 | [Popsicles](Easy/Popsicles/README.md)            | [Popsicles.py](Easy/Popsicles/popsicles.py)                 | May 17, 2023   |
 | [Halloween Candy](Easy/HalloweenCandy/README.md) | [HalloweenCandy.py](Easy/HalloweenCandy/halloween_candy.py) | May 17, 2023   |
-| [Fruit Bowl](Easy/FruitBowl/README.md) | [FruitBowl.py](Easy/HalloweenCandy/fruit_bowl.py) | May 18, 2023   |
-| [Ballpark Orders](Easy/BallparkOrders/README.md) | [BallparkOrders.py](Easy/HalloweenCandy/ballpark_orders.py) | May 18, 2023   |
+| [Fruit Bowl](Easy/FruitBowl/README.md) | [FruitBowl.py](Easy/FruitBowl/fruit_bowl.py) | May 18, 2023   |
+| [Ballpark Orders](Easy/BallparkOrders/README.md) | [BallparkOrders.py](Easy/BallparkOrders/ballpark_orders.py) | May 18, 2023   |
 
 ## Medium
 
@@ -34,6 +34,6 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | Description                                                | Python Solution                                                         | Date Attempted |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------- | -------------- |
 | [New Driver's License](Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023   |
-| [It's a Sign](Hard/ItsASign/README.md) | [ItsASign.py](Hard/NewDriversLicense/its_a_sign.py) | May 18, 2023   |
+| [It's a Sign](Hard/ItsASign/README.md) | [ItsASign.py](Hard/ItsASign/its_a_sign.py) | May 18, 2023   |
 
 All solutions belong to Chitrakshi Gosain. The challenge was started on May 17, 2023.
