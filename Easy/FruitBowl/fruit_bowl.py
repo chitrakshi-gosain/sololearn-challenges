@@ -5,4 +5,4 @@ APPLES_REQ = 3
 
 fruit_count = int(input())
 
-print(floor(fruit_count/( APPLES_PROBABILITY * APPLES_REQ)))
+print(floor(fruit_count/(APPLES_PROBABILITY * APPLES_REQ)))

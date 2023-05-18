@@ -20,20 +20,20 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Popsicles](Easy/Popsicles/README.md)            | [Popsicles.py](Easy/Popsicles/popsicles.py)                 | May 17, 2023   |
 | [Halloween Candy](Easy/HalloweenCandy/README.md) | [HalloweenCandy.py](Easy/HalloweenCandy/halloween_candy.py) | May 17, 2023   |
 | [Fruit Bowl](Easy/FruitBowl/README.md) | [FruitBowl.py](Easy/FruitBowl/fruit_bowl.py) | May 18, 2023   |
-| [Ballpark Orders](Easy/BallparkOrders/README.md) | [BallparkOrders.py](Easy/BallparkOrders/ballpark_orders.py) | May 18, 2023   |
+| [Ballpark Orders](Easy/BallparkOrders/README.md) | [BallparkOrders.py](Easy/BallparkOrders/ballpark_orders.py) | May 18, 2023   | >> easy
 
 ## Medium
 
 | Description                                   | Python Solution                                      | Date Attempted |
 | --------------------------------------------- | ---------------------------------------------------- | -------------- |
 | [The Spy Life](Medium/TheSpyLife/README.md) | [TheSpyLife.py](Medium/TheSpyLife/the_spy_life.py) | May 17, 2023   |
-| [Pig Latin](Medium/PigLatin/README.md) | [PigLatin.py](Medium/PigLatin/pig_latin.py) | May 18, 2023   |
+| [Pig Latin](Medium/PigLatin/README.md) | [PigLatin.py](Medium/PigLatin/pig_latin.py) | May 18, 2023   | >> medium
 
 ## Hard
 
 | Description                                                | Python Solution                                                         | Date Attempted |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------- | -------------- |
 | [New Driver's License](Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023   |
-| [It's a Sign](Hard/ItsASign/README.md) | [ItsASign.py](Hard/ItsASign/its_a_sign.py) | May 18, 2023   |
+| [It's a Sign](Hard/ItsASign/README.md) | [ItsASign.py](Hard/ItsASign/its_a_sign.py) | May 18, 2023   | >> hard
 
 All solutions belong to Chitrakshi Gosain. The challenge was started on May 17, 2023.
