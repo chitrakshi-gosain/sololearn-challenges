@@ -3,7 +3,7 @@
 There are 72 or more problems from **SoloLearn Code Coach**. Over a period of 30 days or less, I aim to solve all these problems.
 The problems are grouped by dificulty: Easy, Medium, Hard.
 
-I will attempt 2 Easy, 1 Medium and 1 Hard problem each day and keep updating the README.md to reflect these changes.
+I will attempt 2 Easy, 2 Medium and 1 Hard problem each day and keep updating the README.md to reflect these changes.
 
 Every problem will be found under the directory based on it's difficulty level.
 
@@ -30,7 +30,8 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | --------------------------------------------- | ---------------------------------------------------- | -------------- |
 | [The Spy Life](Medium/TheSpyLife/README.md) | [TheSpyLife.py](Medium/TheSpyLife/the_spy_life.py) | May 17, 2023   |
 | [Pig Latin](Medium/PigLatin/README.md) | [PigLatin.py](Medium/PigLatin/pig_latin.py) | May 18, 2023   |
-| [Safety Deposit Boxes](Medium/SafetyDepositBoxes/README.md)| [SafetyDepositBoxes.py](Medium/SafetyDepositBoxes/safety_deposit_boxes.py)| May 19, 2023 | >> medium
+| [Safety Deposit Boxes](Medium/SafetyDepositBoxes/README.md)| [SafetyDepositBoxes.py](Medium/SafetyDepositBoxes/safety_deposit_boxes.py)| May 19, 2023 |
+| [Snap, Crackle And Pop](Medium/SnapCrackleAndPop/README.md)| [SnapCrackleAndPop.py](Medium/SnapCrackleAndPop/snap_crackle_and_pop.py)| May 19, 2023 | >> medium
 
 ## Hard
 
