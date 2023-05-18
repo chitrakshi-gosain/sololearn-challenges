@@ -17,13 +17,13 @@ A string of the same sentence in Pig Latin.
 ## Sample Input
 
 ```=
-"nevermind youve got them"
+nevermind youve got them
 ```
 
 ## Sample Output
 
 ```=
-"evermindnay ouveyay otgay hemtay"
+evermindnay ouveyay otgay hemtay
 ```
 
 ## Explanation
