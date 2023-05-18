@@ -1,4 +1,4 @@
-signs = list()
+signs = []
 
 for sign_index in range(0,4):
     signs.append(input())
