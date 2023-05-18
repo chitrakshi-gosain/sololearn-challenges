@@ -50,7 +50,7 @@ directory for your new coding challenge:"
     difficulty_levels = [level.replace("\\", "").casefold() for level in glob("*/")]
     if difficulty_dir in difficulty_levels:
         create_directory(difficulty_dir, directory_name)
-        marker = f" >> {difficulty_dir}"
+        marker = f" >> {difficulty_dir} |"
         description = f"| [{directory_input}]({difficulty_dir.title()}/{directory_name}/README.md)"
         py_soln = f"""| [{directory_name}.py]({difficulty_dir.title()}/{directory_name}/\
 {change_case(directory_name)}.py)"""
