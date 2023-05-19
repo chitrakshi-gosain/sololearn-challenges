@@ -15,7 +15,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 
 ## Easy
 
-| Description                                            | Python Solution                                                      | Date Attempted |
+| <center> <img src='desc.png' alt='Description' width='15' height='18'/> </center>                                            | <center> <img src='py.svg' alt='Python Solution' width='20'/> </center>             | <center> <img src='cal.svg' alt='Date Attempted' width='15'/> </center> |
 | ------------------------------------------------------ | -------------------------------------------------------------------- | -------------- |
 | [Popsicles](Easy/Popsicles/README.md)                  | [Popsicles.py](Easy/Popsicles/popsicles.py)                          | May 17, 2023   |
 | [Halloween Candy](Easy/HalloweenCandy/README.md)       | [HalloweenCandy.py](Easy/HalloweenCandy/halloween_candy.py)          | May 17, 2023   |
@@ -26,7 +26,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 
 ## Medium
 
-| Description                                                 | Python Solution                                                            | Date Attempted |
+| <center> <img src='desc.png' alt='Description' width='15' height='18'/> </center>                                            | <center> <img src='py.svg' alt='Python Solution' width='20'/> </center>             | <center> <img src='cal.svg' alt='Date Attempted' width='15'/> </center> |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------- |
 | [The Spy Life](Medium/TheSpyLife/README.md)                 | [TheSpyLife.py](Medium/TheSpyLife/the_spy_life.py)                         | May 17, 2023   |
 | [Pig Latin](Medium/PigLatin/README.md)                      | [PigLatin.py](Medium/PigLatin/pig_latin.py)                                | May 18, 2023   |
@@ -35,7 +35,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 
 ## Hard
 
-| Description                                              | Python Solution                                                       | Date Attempted |
+| <center> <img src='desc.png' alt='Description' width='15' height='18'/> </center>                                            | <center> <img src='py.svg' alt='Python Solution' width='20'/> </center>             | <center> <img src='cal.svg' alt='Date Attempted' width='15'/> </center> |
 | -------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
 | [New Driver's License](Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023   |
 | [It's a Sign](Hard/ItsASign/README.md)                   | [ItsASign.py](Hard/ItsASign/its_a_sign.py)                            | May 18, 2023   |
