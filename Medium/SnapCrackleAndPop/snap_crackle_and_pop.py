@@ -11,4 +11,3 @@ for bowl in bowls:
             print('Crackle', end = ' ')
     else:
         print('Pop', end = ' ')
- 

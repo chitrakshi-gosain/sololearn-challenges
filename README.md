@@ -22,8 +22,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Fruit Bowl](Easy/FruitBowl/README.md)                 | [FruitBowl.py](Easy/FruitBowl/fruit_bowl.py)                         | May 18, 2023   |
 | [Ballpark Orders](Easy/BallparkOrders/README.md)       | [BallparkOrders.py](Easy/BallparkOrders/ballpark_orders.py)          | May 18, 2023   |
 | [Cheer Creator](Easy/CheerCreator/README.md)           | [CheerCreator.py](Easy/CheerCreator/cheer_creator.py)                | May 19, 2023   |
-| [Skee-Ball](Easy/SkeeBall/README.md)                   | [SkeeBall.py](Easy/SkeeBall/skee_ball.py)                            | May 19, 2023   |
-| [chitrakshi Gosaain](Easy/chitrakshiGosaain/README.md) | [chitrakshiGosaain.py](Easy/chitrakshiGosaain/chitrakshi_gosaain.py) | May 19, 2023   | >> easy |
+| [Skee-Ball](Easy/SkeeBall/README.md)                   | [SkeeBall.py](Easy/SkeeBall/skee_ball.py)                            | May 19, 2023   | >> easy |
 
 ## Medium
 
