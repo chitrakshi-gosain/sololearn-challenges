@@ -5,4 +5,4 @@ COSTS = {
     'paint': 5
 }
 
-print((COSTS['canvas'] + COSTS['paint'] * paint_colors) * 1.1)
+print(round((COSTS['canvas'] + COSTS['paint'] * paint_colors) * 1.1))
