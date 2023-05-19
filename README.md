@@ -22,7 +22,9 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Fruit Bowl](Easy/FruitBowl/README.md)                 | [FruitBowl.py](Easy/FruitBowl/fruit_bowl.py)                         | May 18, 2023   |
 | [Ballpark Orders](Easy/BallparkOrders/README.md)       | [BallparkOrders.py](Easy/BallparkOrders/ballpark_orders.py)          | May 18, 2023   |
 | [Cheer Creator](Easy/CheerCreator/README.md)           | [CheerCreator.py](Easy/CheerCreator/cheer_creator.py)                | May 19, 2023   |
-| [Skee-Ball](Easy/SkeeBall/README.md)                   | [SkeeBall.py](Easy/SkeeBall/skee_ball.py)                            | May 19, 2023   | >> easy |
+| [Skee-Ball](Easy/SkeeBall/README.md)                   | [SkeeBall.py](Easy/SkeeBall/skee_ball.py)                            | May 19, 2023   |
+| [Paint Costs](Easy/PaintCosts/README.md)| [PaintCosts.py](Easy/PaintCosts/paint_costs.py)| May 20, 2023 |
+| [Easter Eggs](Easy/EasterEggs/README.md)| [EasterEggs.py](Easy/EasterEggs/easter_eggs.py)| May 20, 2023 | >> easy |
 
 ## Medium
 
@@ -31,7 +33,9 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [The Spy Life](Medium/TheSpyLife/README.md)                 | [TheSpyLife.py](Medium/TheSpyLife/the_spy_life.py)                         | May 17, 2023   |
 | [Pig Latin](Medium/PigLatin/README.md)                      | [PigLatin.py](Medium/PigLatin/pig_latin.py)                                | May 18, 2023   |
 | [Safety Deposit Boxes](Medium/SafetyDepositBoxes/README.md) | [SafetyDepositBoxes.py](Medium/SafetyDepositBoxes/safety_deposit_boxes.py) | May 19, 2023   |
-| [Snap, Crackle And Pop](Medium/SnapCrackleAndPop/README.md) | [SnapCrackleAndPop.py](Medium/SnapCrackleAndPop/snap_crackle_and_pop.py)   | May 19, 2023   | >> medium |
+| [Snap, Crackle And Pop](Medium/SnapCrackleAndPop/README.md) | [SnapCrackleAndPop.py](Medium/SnapCrackleAndPop/snap_crackle_and_pop.py)   | May 19, 2023   |
+| [Hex Color Code Generator](Medium/HexColorCodeGenerator/README.md)| [HexColorCodeGenerator.py](Medium/HexColorCodeGenerator/hex_color_code_generator.py)| May 20, 2023 |
+| [Super Sale](Medium/SuperSale/README.md)| [SuperSale.py](Medium/SuperSale/super_sale.py)| May 20, 2023 | >> medium |
 
 ## Hard
 
@@ -39,7 +43,8 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | -------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
 | [New Driver's License](Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023   |
 | [It's a Sign](Hard/ItsASign/README.md)                   | [ItsASign.py](Hard/ItsASign/its_a_sign.py)                            | May 18, 2023   |
-| [Mathematics](Hard/Mathematics/README.md)                | [Mathematics.py](Hard/Mathematics/mathematics.py)                     | May 19, 2023   | >> hard |
+| [Mathematics](Hard/Mathematics/README.md)                | [Mathematics.py](Hard/Mathematics/mathematics.py)                     | May 19, 2023   |
+| [Password Validation](Hard/PasswordValidation/README.md)| [PasswordValidation.py](Hard/PasswordValidation/password_validation.py)| May 20, 2023 | >> hard |
 
 ### Change-log
 

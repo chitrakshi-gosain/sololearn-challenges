@@ -38,9 +38,9 @@ prompt describing the problem, a README.md is provided as well.\n\nUsage:\n Diff
 Specifies the difficulty of your coding challenge, this helps categorise the challenges easily.\n  \
  You can choose from the following categories: Easy / Medium / Hard\n   These categories are \
 case-insensitive :)\n Coding Challenge:\n   This name will be used to create the directory for the \
-coding challenge, and it's corresponding files.\n   It is recommended that this field is entered \
-in PascalCase for the best results.\n\n\nPlease provide the following details to initialise a \
-directory for your new coding challenge:"
+coding challenge, and it's corresponding files.\n   It is recommended that every word in this \
+field is entered in Title Case for the best results.\n\n\nPlease provide the following details \
+to initialise a directory for your new coding challenge:"
     )
     root_addr = os.getcwd()
     difficulty_dir, directory_input = input("Difficulty Level: ").casefold(), input(
