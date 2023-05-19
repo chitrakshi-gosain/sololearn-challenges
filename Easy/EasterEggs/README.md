@@ -27,3 +27,7 @@ A string that says 'Keep Hunting' if there are still eggs out there or 'Candy Ti
 ```=
 Candy Time
 ```
+
+## Explanation
+
+If you have 40 eggs and your friend has 60, you hav efound all of the eggs (100) and can enjoy them.
