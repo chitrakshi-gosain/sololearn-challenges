@@ -26,7 +26,9 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Paint Costs](Easy/PaintCosts/README.md)| [PaintCosts.py](Easy/PaintCosts/paint_costs.py)| May 20, 2023 |
 | [Easter Eggs](Easy/EasterEggs/README.md)| [EasterEggs.py](Easy/EasterEggs/easter_eggs.py)| May 20, 2023 |
 | [Argentina](Easy/Argentina/README.md)| [Argentina.py](Easy/Argentina/argentina.py)| May 21, 2023 |
-| [Guard Flamingos](Easy/GuardFlamingos/README.md)| [GuardFlamingos.py](Easy/GuardFlamingos/guard_flamingos.py)| May 21, 2023 | >> easy |
+| [Guard Flamingos](Easy/GuardFlamingos/README.md)| [GuardFlamingos.py](Easy/GuardFlamingos/guard_flamingos.py)| May 21, 2023 |
+| [Balconies](Easy/Balconies/README.md)| [Balconies.py](Easy/Balconies/balconies.py)| May 22, 2023 |
+| [Gotham City](Easy/GothamCity/README.md)| [GothamCity.py](Easy/GothamCity/gotham_city.py)| May 22, 2023 | >> easy |
 
 ## Medium
 
@@ -39,7 +41,9 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Hex Color Code Generator](Medium/HexColorCodeGenerator/README.md)| [HexColorCodeGenerator.py](Medium/HexColorCodeGenerator/hex_color_code_generator.py)| May 20, 2023 |
 | [Super Sale](Medium/SuperSale/README.md)| [SuperSale.py](Medium/SuperSale/super_sale.py)| May 20, 2023 |
 | [Deja Vu](Medium/DejaVu/README.md)| [DejaVu.py](Medium/DejaVu/deja_vu.py)| May 21, 2023 |
-| [Duty Free](Medium/DutyFree/README.md)| [DutyFree.py](Medium/DutyFree/duty_free.py)| May 21, 2023 | >> medium |
+| [Duty Free](Medium/DutyFree/README.md)| [DutyFree.py](Medium/DutyFree/duty_free.py)| May 21, 2023 |
+| [Symbols](Medium/Symbols/README.md)| [Symbols.py](Medium/Symbols/symbols.py)| May 22, 2023 |
+| [Carrot Cake](Medium/CarrotCake/README.md)| [CarrotCake.py](Medium/CarrotCake/carrot_cake.py)| May 22, 2023 | >> medium |
 
 ## Hard
 
@@ -49,7 +53,8 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [It's a Sign](Hard/ItsASign/README.md)                   | [ItsASign.py](Hard/ItsASign/its_a_sign.py)                            | May 18, 2023   |
 | [Mathematics](Hard/Mathematics/README.md)                | [Mathematics.py](Hard/Mathematics/mathematics.py)                     | May 19, 2023   |
 | [Password Validation](Hard/PasswordValidation/README.md)| [PasswordValidation.py](Hard/PasswordValidation/password_validation.py)| May 20, 2023 |
-| [Security](Hard/_Security/README.md)| [Security.py](Hard/_Security/security.py)| May 21, 2023 | >> hard |
+| [Security](Hard/_Security/README.md)| [Security.py](Hard/_Security/security.py)| May 21, 2023 |
+| [2D Map](Hard/2DMap/README.md)| [2DMap.py](Hard\2DMap\map_2d.py)| May 22, 2023 | >> hard |
 
 ### Change-log
 
