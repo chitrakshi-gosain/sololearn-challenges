@@ -46,7 +46,7 @@ to initialise a directory for your new coding challenge:"
     difficulty_dir, directory_input = input("Difficulty Level: ").casefold(), input(
         "Coding Challenge: "
     )
-    directory_name = sub("[^a-zA-Z]+", "", directory_input)
+    directory_name = sub("[^a-zA-Z0-9]+", "", directory_input)
     difficulty_levels = [level.replace("\\", "").casefold() for level in glob("*/")]
     if difficulty_dir in difficulty_levels:
         create_directory(difficulty_dir, directory_name)
