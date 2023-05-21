@@ -7,7 +7,7 @@ def findall(string, pattern):
 casino_layout = input()
 
 money_pos = casino_layout.index('$')
-guard_pos = [g_pos for g_pos in findall(casino_layout, 'G')]
+guard_pos = list(findall(casino_layout, 'G'))
 thief_pos = casino_layout.index('T')
 
 for g_pos in guard_pos:
