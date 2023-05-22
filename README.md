@@ -15,7 +15,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 
 ## Easy
 
-| <center> <img src='desc.png' alt='Description' width='18' height='25'/> </center>                                            | <center> <img src='py.svg' alt='Python Solution' width='23'/> </center>             | <center> <img src='cal.svg' alt='Date Attempted' width='23'/> </center> |
+| <center> <img src='images/desc.png' alt='Description' width='18' height='25'/> </center>                                            | <center> <img src='images/py.svg' alt='Python Solution' width='23'/> </center>             | <center> <img src='images/cal.svg' alt='Date Attempted' width='23'/> </center> |
 | ------------------------------------------------------ | -------------------------------------------------------------------- | -------------- |
 | [Popsicles](Easy/Popsicles/README.md)                  | [Popsicles.py](Easy/Popsicles/popsicles.py)                          | May 17, 2023   |
 | [Halloween Candy](Easy/HalloweenCandy/README.md)       | [HalloweenCandy.py](Easy/HalloweenCandy/halloween_candy.py)          | May 17, 2023   |
@@ -32,7 +32,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 
 ## Medium
 
-| <center> <img src='desc.png' alt='Description' width='18' height='25'/> </center>                                            | <center> <img src='py.svg' alt='Python Solution' width='23'/> </center>             | <center> <img src='cal.svg' alt='Date Attempted' width='23'/> </center> |
+| <center> <img src='images/desc.png' alt='Description' width='18' height='25'/> </center>                                            | <center> <img src='images/py.svg' alt='Python Solution' width='23'/> </center>             | <center> <img src='images/cal.svg' alt='Date Attempted' width='23'/> </center> |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------- | -------------- |
 | [The Spy Life](Medium/TheSpyLife/README.md)                 | [TheSpyLife.py](Medium/TheSpyLife/the_spy_life.py)                         | May 17, 2023   |
 | [Pig Latin](Medium/PigLatin/README.md)                      | [PigLatin.py](Medium/PigLatin/pig_latin.py)                                | May 18, 2023   |
@@ -47,7 +47,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 
 ## Hard
 
-| <center> <img src='desc.png' alt='Description' width='18' height='25'/> </center>                                            | <center> <img src='py.svg' alt='Python Solution' width='23'/> </center>             | <center> <img src='cal.svg' alt='Date Attempted' width='23'/> </center> |
+| <center> <img src='images/desc.png' alt='Description' width='18' height='25'/> </center>                                            | <center> <img src='images/py.svg' alt='Python Solution' width='23'/> </center>             | <center> <img src='images/cal.svg' alt='Date Attempted' width='23'/> </center> |
 | -------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
 | [New Driver's License](Hard/NewDriversLicense/README.md) | [NewDriversLicense.py](Hard/NewDriversLicense/new_drivers_license.py) | May 17, 2023   |
 | [It's a Sign](Hard/ItsASign/README.md)                   | [ItsASign.py](Hard/ItsASign/its_a_sign.py)                            | May 18, 2023   |
